@@ -69,6 +69,6 @@ Aquí se desarrollan los plugins propios del servidor, el panel web del staff, l
 
 <div align="center">
 
-Hecho con ❤️ por el equipo de **TerraNovaNetwork**
+Hecho con ❤️ por el equipo de **TerraNovaMC**
 
 </div>
